@@ -1,0 +1,509 @@
+clock 1653530171
+espresso_elapsed {0.003 0.179 0.432 0.636 0.834 1.037 1.278 1.438 1.683 1.886 2.086 2.279 2.481 2.682 2.938 3.138 3.341 3.531 3.736 3.93 4.183 4.379 4.581 4.779 4.982 5.192 5.432 5.63 5.829 6.034 6.23 6.482 6.678 6.882 7.097 7.279 7.484 7.728 7.935 8.128 8.352 8.529 8.728 8.982 9.181 9.379 9.585 9.779 9.977 10.234 10.43 10.63 10.831 11.03 11.228 11.536 11.683 11.882 12.083 12.298 12.479 12.73 12.935 13.133 13.328 13.529 13.728 13.986 14.179 14.38 14.582 14.78 14.981 15.231}
+espresso_pressure {0.0 0.16 0.1 0.16 0.17 0.11 0.1 0.09 0.1 0.1 0.1 0.19 0.29 0.31 0.36 0.42 0.46 0.53 0.53 0.56 0.64 0.71 0.73 0.78 0.81 0.86 0.87 0.93 0.94 0.91 0.92 0.94 0.98 1.07 1.25 1.37 1.54 1.83 2.1 2.38 2.86 3.41 3.98 4.44 4.66 4.92 5.04 5.23 5.42 5.51 5.64 5.69 5.8 5.83 5.85 5.96 5.94 5.96 5.91 5.93 5.95 5.94 5.93 5.92 5.83 5.85 5.93 5.96 5.54 1.37 0.0 0.49 0.34 0.31 0.35}
+espresso_weight {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.2 0.4 0.4 0.5 0.4 0.3 0.1 0.1 0.1 0.2 0.2 0.4 0.5 0.7 1.1 1.2 1.7 1.8 2.3 2.7 3.4 3.7 4.3 5.3 5.7 6.4 7.2 7.5 8.2 8.9 9.2 9.9 10.4 11.1 11.6 12.5 13.1 13.6 14.2 14.8 15.2 16.1 16.9 17.5 18.0 18.6 19.2 40.7 38.9 34.7 35.4 38.1 40.2 42.8}
+espresso_flow {0.0 3.4 4.21 4.71 5.13 5.45 5.57 5.7 5.79 5.84 5.92 5.97 5.93 5.92 5.93 5.91 5.95 5.95 5.97 6.01 6.03 6.01 6.0 5.98 6.02 6.03 6.07 6.06 6.07 6.0 5.98 6.04 5.98 5.98 5.98 6.04 6.09 6.14 6.11 6.05 5.93 5.95 5.85 5.57 5.23 4.86 4.59 4.34 4.14 3.95 3.78 3.67 3.58 3.47 3.4 3.29 3.22 3.16 3.18 3.2 3.17 3.18 3.22 3.24 3.24 3.29 3.29 3.37 3.58 4.41 5.32 6.0 6.57 6.96 7.29}
+espresso_flow_weight {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.2 0.4 0.4 0.5 0.3 0.1 -0.3 -0.3 -0.4 -0.2 -0.1 0.3 0.4 0.59 0.89 0.89 1.29 1.29 1.58 1.88 2.18 2.28 2.48 2.97 2.77 2.97 2.87 2.87 2.87 3.17 2.77 3.07 2.87 2.87 2.67 2.97 2.77 2.77 2.87 2.97 2.97 2.97 3.27 3.27 3.47 3.37 3.37 23.57 21.19 16.14 16.44 18.32 -0.5 7.23}
+espresso_flow_weight_raw {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.2 0.4 0.4 0.5 0.3 0.1 -0.3 -0.3 -0.4 -0.2 -0.1 0.3 0.4 0.59 0.89 0.89 1.29 1.29 1.58 1.88 2.18 2.28 2.48 2.97 2.77 2.97 2.87 2.87 2.87 3.17 2.77 3.07 2.87 2.87 2.67 2.97 2.77 2.77 2.87 2.97 2.97 2.97 3.27 3.27 3.47 3.37 3.37 23.57 21.19 16.14 16.44 18.32 -0.5 7.23}
+espresso_temperature_basket {91.0 83.67 83.87 83.86 83.83 83.86 83.92 83.86 83.83 83.84 83.79 83.92 84.06 84.17 84.33 84.54 84.62 84.74 84.94 85.04 85.2 85.37 85.45 85.67 85.83 86.03 86.27 86.5 86.81 87.02 87.21 87.52 87.77 87.98 88.17 88.39 88.63 88.7 88.79 88.82 88.9 88.83 88.75 88.61 88.4 88.18 87.99 87.87 87.76 87.64 87.52 87.44 87.44 87.46 87.52 87.51 87.48 87.53 87.61 87.62 87.62 87.67 87.67 87.66 87.65 87.63 87.68 87.69 87.74 87.7 87.6 87.58 87.53 87.42 87.36}
+espresso_temperature_mix {91.0 90.88 90.55 88.89 88.34 88.31 88.37 88.21 88.21 88.21 88.24 88.5 88.99 89.54 90.12 90.52 91.3 91.89 92.32 92.89 93.18 93.58 93.82 93.95 93.98 93.98 94.05 93.95 93.71 92.98 91.93 90.59 89.21 87.92 86.54 85.47 84.64 84.1 83.88 83.68 83.84 84.04 84.16 84.26 84.58 84.71 84.8 84.93 84.99 84.99 84.99 84.99 84.99 85.09 84.9 84.99 84.87 84.87 84.9 84.9 84.8 84.64 84.71 84.64 84.58 84.67 84.55 84.55 84.39 84.39 84.23 84.23 84.36 84.55 84.64}
+espresso_water_dispensed {0.0 0.0708160400390625 0.15861002604166669 0.25682576497395837 0.36364237467447924 0.4771474202473959 0.5931650797526044 0.711888631184896 0.8324940999348961 0.954203287760417 1.0776367187500004 1.201950073242188 1.3255920410156254 1.448893229166667 1.572336832682292 1.6955261230468754 1.8194529215494797 1.9433390299479172 2.0677235921223964 2.19298807779948 2.318562825520834 2.4438323974609384 2.5687408447265634 2.6933746337890634 2.818756103515626 2.9444020589192714 3.0708109537760424 3.1969706217447924 3.323486328125001 3.448455810546876 3.572962443033855 3.698883056640626 3.8233846028645844 3.9479014078776054 4.072514851888022 4.198313395182293 4.32512919108073 4.452967325846355 4.58031209309896 4.706405639648438 4.830047607421876 4.953979492187501 5.075785319010418 5.19188944498698 5.300903320312501 5.402175903320313 5.49785868326823 5.588338216145835 5.67455546061198 5.756896972656251 5.835667928059897 5.912114461263022 5.986663818359376 6.059005737304688 6.129867553710938 6.198506673177085 6.265660603841147 6.331502278645835 6.397720336914063 6.464380900065105 6.53044637044271 6.596689860026043 6.663792928059897 6.731338500976564 6.798848470052085 6.867380777994793 6.935857137044272 7.005986531575522 7.080520629882814 7.172307332356772 7.283142089843752 7.408142089843752 7.544993082682294 7.690038045247397 7.841878255208335}
+espresso_pressure_delta {0.0 0.017171223958333332 0.0002891497905027933 0.00014015480324074074 1.3819280660377359e-5 7.289090602517985e-5 8.475470106075217e-6 8.214434174491393e-6 2.546668550069541e-6 2.1759413992869876e-6 1.812284597030753e-6 4.541062440076702e-5 4.3600366114523913e-5 9.446795646916565e-6 1.7386599319537658e-5 1.9527926097685502e-5 1.2370414077437859e-5 2.2068383343310386e-5 3.4571031577456813e-7 7.90712409662741e-6 1.9817012563613232e-5 1.680910829548171e-5 5.35224937200274e-6 1.1031894646365423e-5 6.7944555607867755e-6 8.624799277398635e-6 2.868370208975347e-6 1.1640725676546391e-5 5.203707815275311e-7 5.15170644621719e-6 1.5375113937686443e-6 3.918790128410915e-6 6.063968007559395e-6 1.3197778620095837e-5 2.706761070546353e-5 1.685626409046076e-5 2.277393658126116e-5 3.875455137626937e-5 3.5193149100672875e-5 3.44289047731569e-5 6.019412063238189e-5 6.54198657507184e-5 6.706782558037285e-5 5.2559605221700274e-5 2.4653256165107995e-5 2.7575844475002722e-5 1.2676882863311653e-5 1.9841997587376108e-5 1.9673055782799877e-5 9.518963929537938e-6 1.264359304768419e-5 4.517654901725791e-6 1.0105538570084667e-5 3.358595986058536e-6 1.0845775725294652e-6 1.008917438546491e-5 1.7142328905166436e-6 1.964325836685783e-6 4.191608104696179e-6 1.2325232247786145e-6 1.5087565051227841e-6 5.869235315329754e-8 8.438481932443048e-7 8.493489080015462e-7 7.324404648595142e-6 1.9416946466086434e-6 5.702449368024244e-6 2.2408011909965034e-6 3.021646088052338e-5 0.00029362649538930814 9.54321594662726e-5 3.331777833973392e-5 9.960541060554803e-6 2.0859755690541354e-6 2.5005539688792593e-6}
+espresso_flow_delta_negative 0.0
+espresso_flow_delta_negative_2x 0.0
+espresso_resistance {0.0 0.01 0.01 0.01 0.01 0.0 0.0 0.0 0.0 0.0 0.0 0.01 0.01 0.01 0.01 0.01 0.01 0.02 0.01 0.02 0.02 0.02 0.02 0.02 0.02 0.02 0.02 0.03 0.03 0.03 0.03 0.03 0.03 0.03 0.04 0.04 0.04 0.05 0.06 0.06 0.08 0.1 0.12 0.14 0.17 0.21 0.24 0.28 0.32 0.35 0.39 0.42 0.45 0.48 0.51 0.55 0.57 0.6 0.59 0.58 0.59 0.59 0.57 0.56 0.55 0.54 0.55 0.53 0.43 0.07 0.0 0.01 0.01 0.01 0.01}
+espresso_resistance_weight {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 63.67 17.68 4.57 4.88 3.25 9.52 87.13 10.38 10.42 5.67 22.92 94.12 10.89 6.68 3.6 1.74 1.94 1.1 1.26 0.95 0.81 0.72 0.77 0.72 0.53 0.64 0.57 0.63 0.66 0.67 0.56 0.74 0.62 0.71 0.71 0.84 0.67 0.78 0.77 0.72 0.67 0.67 0.67 0.55 0.54 0.49 0.52 0.52 0.01 0.0 0.0 0.0 0.0 1.24 0.01}
+espresso_state_change {0.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0 -10000000.0}
+espresso_pressure_goal {-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 4.1875 4.8125 5.25 5.5 5.6875 5.8125 5.875 5.9375 5.9375 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0}
+espresso_flow_goal {-1.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 6.0625 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0}
+espresso_temperature_goal {91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 91.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0 86.0}
+profile {
+  "title": "Pressure test",
+  "author": "Decent",
+  "notes": "Created by a famously innovative Seattle-based espresso machine manufacturer, this technique works well with aromatic, lightly roasted coffee beans.",
+  "beverage_type": "espresso",
+  "steps": [
+    {
+      "name": "temp comp",
+      "temperature": "91.00",
+      "sensor": "coffee",
+      "pump": "flow",
+      "transition": "fast",
+      "pressure": "1",
+      "flow": "6.0",
+      "seconds": "5.00",
+      "volume": "0",
+      "exit": {
+        "type": "pressure",
+        "condition": "over",
+        "value": "4.0"
+      },
+      "limiter": {
+        "value": "0",
+        "range": "0.6"
+      }
+    },
+    {
+      "name": "preinfusion",
+      "temperature": "86.00",
+      "sensor": "coffee",
+      "pump": "flow",
+      "transition": "fast",
+      "pressure": "1",
+      "flow": "6.0",
+      "seconds": "30",
+      "volume": "0",
+      "exit": {
+        "type": "pressure",
+        "condition": "over",
+        "value": "4.0"
+      },
+      "limiter": {
+        "value": "0",
+        "range": "0.6"
+      }
+    },
+    {
+      "name": "constant pressure",
+      "temperature": "86.00",
+      "sensor": "coffee",
+      "pump": "pressure",
+      "transition": "fast",
+      "pressure": "6.0",
+      "flow": "1.8",
+      "seconds": "30.00",
+      "volume": "0",
+      "limiter": {
+        "value": "8.5",
+        "range": "0.9"
+      }
+    }
+  ],
+  "tank_temperature": "0",
+  "target_weight": "0",
+  "target_volume": "0",
+  "target_volume_count_start": "2",
+  "legacy_profile_type": "settings_2c",
+  "type": "advanced",
+  "lang": "en",
+  "hidden": "0",
+  "reference_file": "Pressure_test_20220116_132416",
+  "changes_since_last_espresso": "",
+  "version": "2"
+}
+scale_raw_arrival {-17.760 -17.664 -17.565 -17.464 -17.362 -17.264 -17.163 -17.063 -16.963 -16.832 -16.763 -16.646 -16.564 -16.438 -16.364 -16.253 -16.164 -16.010 -15.907 -15.801 -15.712 -15.603 -15.511 -15.343 -15.310 -15.198 -15.114 -14.977 -14.912 -14.812 -14.713 -14.604 -14.509 -14.412 -14.308 -14.212 -14.112 -14.003 -13.914 -13.808 -13.712 -13.543 -13.508 -13.351 -13.264 -13.160 -13.063 -12.954 -12.812 -12.764 -12.663 -12.564 -12.359 -12.354 -12.260 -12.148 -12.064 -11.963 -11.847 -11.763 -11.643 -11.512 -11.441 -11.360 -11.246 -11.146 -11.010 -10.961 -10.863 -10.712 -10.608 -10.512 -10.403 -10.312 -10.198 -10.113 -10.000 -9.913 -9.799 -9.713 -9.603 -9.512 -9.402 -9.313 -9.208 -9.112 -8.944 -8.911 -8.803 -8.712 -8.608 -8.512 -8.404 -8.287 -8.212 -8.012 -7.952 -7.862 -7.764 -7.648 -7.563 -7.463 -7.348 -7.259 -7.163 -7.041 -6.964 -6.853 -6.756 -6.648 -6.563 -6.408 -6.360 -6.252 -6.152 -6.057 -5.962 -5.861 -5.746 -5.664 -5.564 -5.390 -5.312 -5.182 -5.114 -4.999 -4.912 -4.798 -4.712 -4.604 -4.501 -4.403 -4.312 -4.209 -4.112 -4.012 -3.906 -3.786 -3.712 -3.607 -3.504 -3.406 -3.287 -3.212 -3.099 -3.012 -2.850 -2.756 -2.663 -2.558 -2.463 -2.362 -2.263 -2.163 -2.050 -1.963 -1.848 -1.763 -1.654 -1.563 -1.442 -1.364 -1.248 -1.163 -1.054 -0.960 -0.863 -0.763 -0.662 -0.564 -0.461 -0.360 -0.164 -0.113 0.010 0.106 0.190 0.299 0.397 0.507 0.588 0.695 0.791 0.917 0.988 1.109 1.319 1.325 1.385 1.495 1.588 1.694 1.786 1.893 1.988 2.108 2.202 2.287 2.452 2.577 2.638 2.747 2.840 2.951 3.052 3.145 3.236 3.349 3.455 3.536 3.636 3.752 3.836 3.937 4.043 4.142 4.272 4.336 4.472 4.536 4.648 4.736 4.840 4.942 5.088 5.198 5.288 5.388 5.507 5.586 5.736 5.787 5.903 5.986 6.113 6.186 6.287 6.386 6.492 6.601 6.740 6.788 6.893 6.995 7.100 7.210 7.289 7.387 7.497 7.686 7.736 7.835 7.945 8.066 8.139 8.236 8.358 8.446 8.536 8.635 8.779 8.839 8.938 9.093 9.135 9.278 9.337 9.480 9.535 9.644 9.735 9.838 9.935 10.042 10.136 10.314 10.388 10.508 10.586 10.701 10.786 10.919 10.986 11.159 11.197 11.309 11.386 11.486 11.599 11.689 11.786 11.891 11.993 12.089 12.201 12.309 12.392 12.527 12.586 12.692 12.803 12.945 13.051 13.137 13.265 13.343 13.486 13.536 13.636 13.775 13.836 13.940 14.127 14.135 14.239 14.335 14.446 14.536 14.663 14.736 14.846 14.936 15.043 15.136 15.240 15.361 15.473 15.588 15.691 15.786 15.894 15.986 16.106 16.186 16.319 16.398 16.503 16.649 16.750 16.788 16.913 16.988 17.099 17.188 17.314 17.394 17.492 17.603 17.695 17.788 17.900 17.990 18.141 18.236 18.357 18.446 18.538 18.674 18.739 18.836 18.937 19.036 19.214 19.236 19.340 19.440 19.545 19.666 19.736 19.843 19.937 20.060 20.136 20.250 20.343}
+espresso_start 1653530188.993
+timers(espresso_pour_stop) 1653530204373
+app_version 1.38.6
+timers(espresso_start) 1653530188993
+timers(espresso_stop) 1653530204373
+timers(espresso_preinfusion_stop) 1653530197336
+scale_raw_weight {163.5 163.4 163.4 163.4 163.4 163.4 163.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.1 -0.1 -0.1 -0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.1 -0.1 -0.2 -0.3 -0.3 -0.3 -0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1 0.1 0.2 0.2 0.3 0.4 0.4 0.4 0.5 0.5 0.5 0.4 0.4 0.3 0.2 0.1 0.1 0.1 0.1 0.1 0.1 0.2 0.2 0.2 0.3 0.3 0.4 0.5 0.7 0.7 0.7 0.8 1.1 1.1 1.2 1.4 1.7 1.8 1.9 2.0 2.3 2.7 2.9 3.1 3.4 3.7 4.0 4.3 4.6 4.9 5.3 5.6 5.7 5.9 6.4 6.7 6.8 7.2 7.5 7.7 8.2 8.5 8.9 9.0 9.2 9.5 9.9 10.3 10.4 10.8 11.1 11.3 11.6 11.8 12.2 12.5 12.7 13.1 13.4 13.6 13.9 14.2 14.5 14.8 15.2 15.4 15.8 16.1 16.5 16.9 17.1 17.5 18.0 18.4 18.6 18.8 19.2 19.6 20.5 40.7 51.6 38.9 35.5 34.7 33.3 35.4 36.8 38.1 39.6 40.2 40.3 41.5 42.8 43.1 44.1 45.4 45.2 44.6 45.1 45.3 45.1 45.5 45.7 45.8 45.9 46.2 46.2 46.2 46.5 46.7 46.6 46.9 47.0 46.9 47.0 47.2 47.2 47.3 47.4 47.4 47.5 47.6 47.7 47.7 47.8 47.9 47.9 47.9 48.0 48.0 48.0 48.1 48.2 48.2 48.3 48.3 48.3 48.3 48.3 48.5 48.4 48.5 48.5}
+local_time {Wed May 25 18:56:11 PDT 2022}
+timers(espresso_pour_start) 1653530197336
+timers(espresso_preinfusion_start) 1653530188993
+settings {
+	accelerometer_angle 45
+	active_settings_tab settings_2c
+	advanced_shot {{exit_if 1 flow 6.0 volume 0 max_flow_or_pressure_range 0.6 transition fast exit_flow_under 0 temperature 91.00 name {temp comp} pressure 1 sensor coffee pump flow exit_type pressure_over exit_flow_over 0 exit_pressure_over 4.0 max_flow_or_pressure 0 seconds 5.00 exit_pressure_under 0} {exit_if 1 flow 6.0 volume 0 max_flow_or_pressure_range 0.6 transition fast exit_flow_under 0 temperature 86.00 name preinfusion pressure 1 sensor coffee pump flow exit_type pressure_over exit_flow_over 0 max_flow_or_pressure 0 exit_pressure_over 4.0 seconds 30 exit_pressure_under 0} {exit_if 0 flow 1.8 volume 0 max_flow_or_pressure_range 0.9 transition fast exit_flow_under 0 temperature 86.00 pressure 6.0 name {constant pressure} sensor coffee pump pressure exit_flow_over 0 exit_pressure_over 0 max_flow_or_pressure 8.5 seconds 30.00 exit_pressure_under 0}}
+	advanced_shot_chart_temp_max 100
+	advanced_shot_chart_temp_min 80
+	after_flow_complete_delay 5
+	allow_unheated_water 1
+	also_load_god_shot 1
+	app_brightness 70
+	app_updates_beta_enabled 1
+	author Decent
+	automatically_ble_reconnect_forever_to_scale 0
+	battery_low_brightness 50
+	battery_low_trigger 60
+	battery_medium_brightness 70
+	battery_medium_trigger 90
+	battery_very_low_brightness 10
+	battery_very_low_trigger 30
+	bean_brand {Steady State Space Traveler}
+	bean_notes {Ethiopia, Guatemala}
+	bean_type {}
+	beverage_type espresso
+	ble_debug 0
+	ble_unpair_at_exit 1
+	bluetooth_address F8:A5:EB:7A:C6:1E
+	calibration_flow_multiplier 1.11
+	chart_dashes_espresso_weight {2 1}
+	chart_dashes_flow {}
+	chart_dashes_pressure {}
+	chart_dashes_temperature {}
+	chart_total_shot_flow 1
+	chart_total_shot_weight 1
+	color_stage_1 {#c8e7d5}
+	color_stage_2 {#efdec2}
+	color_stage_3 {#edceca}
+	comms_debugging 0
+	cpu_board_model 1300
+	create_legacy_shotfiles 0
+	current_frame_description {}
+	D_Flow_graph_style DSx
+	debuglog_window_size 35
+	default_font_calibration 0.45
+	disable_long_press 0
+	display_connected_msg_seconds 5
+	display_espresso_water_delta_number 1
+	display_espresso_water_temp_difference 0
+	display_flow_delta_line 0
+	display_fluid_ounces_option 0
+	display_group_head_delta_number 0
+	display_pressure_delta_line 0
+	display_rate_espresso 1
+	display_time_in_screen_saver 0
+	display_volumetric_usage 0
+	display_weight_delta_line 0
+	do_async_update_check 0
+	drink_ey 0
+	drink_tds 0
+	drink_weight 48.2
+	drinker_name {}
+	enable_ampm 0
+	enable_commanumbers 0
+	enable_descale_steam_check 1
+	enable_fahrenheit 0
+	enable_fluid_ounces 0
+	enable_negative_flow_charts 0
+	enable_rise 0
+	enable_shot_history_export 0
+	enable_spoken_prompts 0
+	enabled_plugins {SDB DYE visualizer_upload}
+	espresso_chart_over 3
+	espresso_chart_under 10
+	espresso_clock 1653530171
+	espresso_count 483
+	espresso_decline_time 0
+	espresso_enjoyment 0
+	espresso_hold_time 40
+	espresso_max_time 65.0
+	espresso_notes {}
+	espresso_pressure 9.0
+	espresso_step_1 pressure
+	espresso_step_2 pressure
+	espresso_step_3 pressure
+	espresso_temperature 91.00
+	espresso_temperature_0 91.00
+	espresso_temperature_1 91.00
+	espresso_temperature_2 91.00
+	espresso_temperature_3 91.00
+	espresso_temperature_steps_enabled 0
+	espresso_typical_volume 200
+	espresso_warmup_timeout 60
+	fan_threshold 60
+	final_desired_shot_volume 0
+	final_desired_shot_volume_advanced 0
+	final_desired_shot_volume_advanced_count_start 2
+	final_desired_shot_weight 0
+	final_desired_shot_weight_advanced 0
+	firmware_crc 4142856765
+	firmware_sha 82C923C0
+	firmware_version_number 1293
+	flight_mode_angle 30
+	flight_mode_enable 1
+	flow_decline_stop_volumetric 100
+	flow_hold_stop_volumetric 100
+	flow_profile_decline 1.8
+	flow_profile_decline_time 23
+	flow_profile_hold 2.2
+	flow_profile_hold_time 0
+	flow_profile_minimum_pressure 6
+	flow_profile_preinfusion 4.2
+	flow_profile_preinfusion_time 6
+	flow_rate_transition smooth
+	flow_rise_timeout 10
+	flying 0
+	force_acaia_heartbeat 0
+	force_fw_update 0
+	ghc_is_installed 7
+	ghc_mode 0
+	go_idle_before_all_operations 0
+	goal_is_basket_temp 1
+	god_espresso_elapsed {}
+	god_espresso_filename {}
+	god_espresso_flow {}
+	god_espresso_flow_weight {}
+	god_espresso_name {}
+	god_espresso_pressure {}
+	god_espresso_temperature_basket {}
+	grinder_dose_weight 17.9
+	grinder_model {Superjolly w/ MP burrs}
+	grinder_setting 0.8
+	has_refractometer 1
+	has_scale 1
+	heater_voltage 120
+	high_vibration_scale_filtering False
+	history_saved 0
+	hot_water_idle_temp 850
+	insert_preinfusion_pause 0
+	insight_skin_show_embedded_profile 0
+	insight_skin_show_weight_activity_bar 0
+	language en
+	last_version 1.38.6
+	line_frequency 60.0
+	linear_resistance_adjustment 1
+	live_graph_smoothing_technique linear
+	lock_screen_during_screensaver 0
+	log_enabled True
+	log_fast 0
+	logfile log.txt
+	machine_model 3
+	machine_name {pretty decent}
+	mark_most_popular_profiles_used 0
+	max_ble_connect_attempts 10
+	max_steam_pressure 3
+	max_stop_at_weight 500
+	maximum_flow 0
+	maximum_flow_range 0.6
+	maximum_flow_range_advanced 1.0
+	maximum_flow_range_default 1.0
+	maximum_pressure 8.5
+	maximum_pressure_range 0.6
+	maximum_pressure_range_advanced 0.9
+	maximum_pressure_range_default 0.9
+	minimum_water_temperature 1
+	mmr_enabled 1
+	most_popular_skins {Insight {Insight Dark} MimojaCafe Metric DSx SWDark4}
+	my_name {}
+	name {}
+	one_tap_mode 0
+	orientation landscape
+	original_profile_title {Pressure test}
+	phase_1_flow_rate 10
+	phase_2_flow_rate 30
+	preheat_temperature 95
+	preheat_volume 50
+	preinfusion_enabled 1
+	preinfusion_flow_rate 3.5
+	preinfusion_flow_rate2 4
+	preinfusion_guarantee 0
+	preinfusion_stop_flow_rate 1
+	preinfusion_stop_pressure 4.0
+	preinfusion_stop_timeout 30
+	preinfusion_stop_volumetric 100
+	preinfusion_temperature 92
+	preinfusion_time 30
+	preload_all_page_images 0
+	preset_counter 7
+	pressure_decline_stop_volumetric 100
+	pressure_end 1.0
+	pressure_hold_stop_volumetric 100
+	pressure_hold_time 10
+	pressure_rampup_stop_volumetric 100
+	pressure_rampup_timeout 20
+	preview_graph_smoothing_technique quadratic
+	profile {Pressure test}
+	profile_filename Pressure_test_20220116_132416
+	profile_graph_smoothing_technique quadratic
+	profile_has_changed 0
+	profile_hide 0
+	profile_language en
+	profile_notes {Created by a famously innovative Seattle-based espresso machine manufacturer, this technique works well with aromatic, lightly roasted coffee beans.}
+	profile_step {}
+	profile_title {Pressure test}
+	profile_to_save {Pressure test}
+	reconnect_to_scale_on_espresso_start 1
+	repository_links {Visualizer https://visualizer.coffee/shots/c86259ca-617c-4d00-80ea-6498d7f4bfd1}
+	resistance_curve 0
+	roast_date {}
+	roast_level {Medium Light}
+	running_weight 48.2
+	saver_brightness 0
+	scale_bluetooth_address D5:9F:8C:CD:34:37
+	scale_bluetooth_name Skale
+	scale_button_starts_espresso 0
+	scale_period_D5:9F:8C:CD:34:37 0.10097966268374933
+	scale_period_FF:FF:10:00:03:6F 0.10210682021689789
+	scale_stop_at_half_shot 0
+	scale_type atomaxskale
+	scentone {}
+	scheduler_enable 0
+	scheduler_sleep 6000
+	scheduler_wake 3600
+	screen_saver_change_interval 10
+	screen_saver_delay 10
+	screen_size_height 800
+	screen_size_width 1280
+	seconds_to_display_done_espresso 300
+	seconds_to_display_done_flush 300
+	seconds_to_display_done_hotwater 300
+	seconds_to_display_done_steam 300
+	settings_1_page settings_1
+	settings_profile_type settings_2c
+	shot_weight_percentage_stop 79
+	should_save_history 1
+	show_mixtemp_during_espresso 0
+	show_only_most_popular_skins 1
+	show_scale_notifications 1
+	skale_bluetooth_address {}
+	skin MimojaCafe
+	sound_button_in 8
+	sound_button_out 11
+	speaking_pitch 1.0
+	speaking_rate 1.5
+	start_espresso_only_if_scale_connected 0
+	steam_flow 250
+	steam_highflow_start 70
+	steam_max_time 120
+	steam_over_pressure_count_trigger 10
+	steam_over_pressure_threshold 8
+	steam_over_temp_count_trigger 10
+	steam_over_temp_threshold 180
+	steam_temperature 160
+	steam_timeout 30
+	steaming_count 6
+	stop_weight_before_seconds 0.15
+	stress_test 0
+	tank_desired_water_temperature 0
+	tare_only_on_espresso_start 0
+	temp_bump_time_seconds 2
+	temperature_target portafilter
+	timer_interval 100
+	use_finger_down_for_tap 1
+	water_count 1
+	water_level_sensor_max 50
+	water_max_vol 500
+	water_refill_point 5
+	water_speed_type flow
+	water_stop_on_scale 1
+	water_temperature 95
+	water_time_max 60
+	water_volume 50
+	waterlevel_blink_start_offset 5
+	waterlevel_indicator_blink 1
+	waterlevel_indicator_blink_rate 1000
+	waterlevel_indicator_on 1
+	weight_detail_curve 0
+	zoomed_y_axis_scale 12
+}
+machine {
+	advanced_shot_moveone_enabled 1
+	app_autostop_triggered True
+	app_stepskip_triggered False
+	app_update_button_label Update
+	bluetooth_scale_connection_attempts_tried 0
+	calibration_flow {}
+	calibration_pressure {}
+	calibration_temperature {}
+	cinstance 0
+	cmdstack {}
+	connect_time 1653495256
+	connectivity ble
+	current_context default_off
+	current_frame_number 2
+	currently_erasing_firmware 0
+	currently_updating_firmware {}
+	cuuid 0000A002-0000-1000-8000-00805F9B34FB
+	cuuid_0A 0000A00A-0000-1000-8000-00805F9B34FB
+	cuuid_0B 0000A00B-0000-1000-8000-00805F9B34FB
+	cuuid_0C 0000A00C-0000-1000-8000-00805F9B34FB
+	cuuid_0D 0000A00D-0000-1000-8000-00805F9B34FB
+	cuuid_0E 0000A00E-0000-1000-8000-00805F9B34FB
+	cuuid_0F 0000A00F-0000-1000-8000-00805F9B34FB
+	cuuid_01 0000A001-0000-1000-8000-00805F9B34FB
+	cuuid_02 0000A002-0000-1000-8000-00805F9B34FB
+	cuuid_05 0000A005-0000-1000-8000-00805F9B34FB
+	cuuid_06 0000A006-0000-1000-8000-00805F9B34FB
+	cuuid_09 0000A009-0000-1000-8000-00805F9B34FB
+	cuuid_10 0000A010-0000-1000-8000-00805F9B34FB
+	cuuid_11 0000A011-0000-1000-8000-00805F9B34FB
+	cuuid_12 0000A012-0000-1000-8000-00805F9B34FB
+	cuuid_acaia_ips_age 00002A80-0000-1000-8000-00805F9B34FB
+	cuuid_acaia_pyxis_cmd 49535343-8841-43F4-A8D4-ECBE34729BB3
+	cuuid_acaia_pyxis_status 49535343-1E4D-4BD9-BA61-23C647249616
+	cuuid_decentscale_read 0000FFF4-0000-1000-8000-00805F9B34FB
+	cuuid_decentscale_write 000036F5-0000-1000-8000-00805F9B34FB
+	cuuid_decentscale_writeback 83CDC3D4-3BA2-13FC-CC5E-106C351A9352
+	cuuid_felicita 0000FFE1-0000-1000-8000-00805F9B34FB
+	cuuid_hiroiajimmy_cmd 06C31823-8682-4744-9211-FEBC93E3BECE
+	cuuid_hiroiajimmy_status 06C31824-8682-4744-9211-FEBC93E3BECE
+	cuuid_skale_EF80 0000EF80-0000-1000-8000-00805F9B34FB
+	cuuid_skale_EF81 0000EF81-0000-1000-8000-00805F9B34FB
+	cuuid_skale_EF82 0000EF82-0000-1000-8000-00805F9B34FB
+	decentscale_device_handle 0
+	decentscale_timer_on 0
+	device_handle ble1718
+	factory_calibration_flow {}
+	factory_calibration_pressure {}
+	factory_calibration_temperature {}
+	fan_threshold 0
+	final_espresso_weight 48.2
+	final_water_weight 0
+	firmware_bytes_uploaded 0
+	firmware_crc {}
+	firmware_update_button_label {Firmware Update}
+	firmware_update_size 0
+	first_connection_was_made 1
+	flow 2.306640625
+	flow_delta 0
+	found 0
+	goal_flow 0.0
+	goal_pressure 0.0
+	goal_temperature 91.0
+	group_heater_wattage 500
+	GroupPressure 0
+	has_catering_kit 0
+	has_plumbing_kit 0
+	head_temperature 87.94606018066406
+	hertz 50
+	language_rtl 0
+	last_ping 1653530209
+	listbox_global_width_multiplier 1
+	max_flowrate 12.0
+	max_flowrate_v11 8
+	max_pressure 12.0
+	max_temperature 100
+	maxpressure 12
+	min_temperature 80
+	mix_temperature 85.5703125
+	pour_volume 30.11830647786459
+	preinfusion_volume 48.30047607421876
+	pressure 0.001220703125
+	pressure_delta 0
+	previouscmd {ble write ble1719 0000FF08-0000-1000-8000-00805F9B34FB 12 0000EF80-0000-1000-8000-00805F9B34FB 22 }
+	scale_battery_level 100
+	scale_device_handle ble1719
+	scale_sensor_weight 48.50
+	scale_usb_powered 1
+	scale_weight 48.50
+	scale_weight_rate 0.30
+	scale_weight_rate_raw 0.30
+	scanning 0
+	serial_number 0
+	sinstance 12
+	state 2
+	steam_heater_temperature 159
+	steam_heater_wattage 1500
+	steam_max_temperature 170
+	steam_min_temperature 120
+	steam_time_max 250
+	steam_time_min 1
+	substate 0
+	suuid 0000A000-0000-1000-8000-00805F9B34FB
+	suuid_acaia_ips 00001820-0000-1000-8000-00805F9B34FB
+	suuid_acaia_pyxis 49535343-FE7D-4AE5-8FA9-9FAFD205E455
+	suuid_decentscale 0000FFF0-0000-1000-8000-00805F9B34FB
+	suuid_felicita 0000FFE0-0000-1000-8000-00805F9B34FB
+	suuid_hiroiajimmy 06C31822-8682-4744-9211-FEBC93E3BECE
+	suuid_skale 0000FF08-0000-1000-8000-00805F9B34FB
+	tank_temperature_threshold 0
+	timer 0
+	version {FW_Sha 0 FW_Commits 0 FW_APIVersion 0 FW_Changes 0 FW_Release 0.0 BLE_Sha 82C923C0 BLE_Commits 504 BLE_APIVersion 4 BLE_Changes 69 BLE_Release 1.5}
+	voltage 110
+	volume 130.67387898763022
+	water_heater_wattage 1500
+	water_level 39.94140625
+	water_level_full_point 40
+	water_level_mm_correction 5
+	water_level_percent 0
+	water_max_temperature 95
+	water_min_temperature 20
+	water_time_min 1
+	widget_current_profile_name_color_changed {#969eb1}
+	widget_current_profile_name_color_normal {#ff6b6b}
+	wrote 0
+}
+
